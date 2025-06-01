@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cook-up:item/roasted_red_mushroom"
+  }
+}

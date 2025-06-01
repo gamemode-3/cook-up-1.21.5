@@ -2,6 +2,8 @@ package net.gamemode3.cookup;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.gamemode3.cookup.item.ModItems;
+import net.gamemode3.cookup.potion.ModPotions;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -11,7 +13,8 @@ public class CookUp implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
-		LOGGER.info("Hello Fabric world!");
+		ModItems.registerModItems();
+		ModPotions.registerModPotions();
 	}
+
 }

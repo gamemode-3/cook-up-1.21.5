@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.2,
+  "ingredient": "minecraft:brown_egg",
+  "result": {
+    "id": "cook-up:boiled_brown_egg"
+  }
+}

@@ -3,13 +3,13 @@
 	"id": "cook-up",
 	"version": "${version}",
 	"name": "cook up!",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "adds more options to cook items in a campfire and furnaces!",
 	"authors": [
 		"Me!"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/gamemode-3/cook-up-1.21.5/"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/cook-up/icon.png",
