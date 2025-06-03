@@ -5,10 +5,10 @@
 	"name": "cook up!",
 	"description": "adds more options to cook items in a campfire and furnaces!",
 	"authors": [
-		"Me!"
+		"gamemode-3"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
+		"homepage": "https://github.com/gamemode-3/cook-up-1.21.5/",
 		"sources": "https://github.com/gamemode-3/cook-up-1.21.5/"
 	},
 	"license": "CC0-1.0",
