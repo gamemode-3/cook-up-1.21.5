@@ -3,7 +3,7 @@
   "category": "food",
   "cookingtime": 100,
   "experience": 0.1,
-  "ingredient": "cook-up:raw_red_mushroom",
+  "ingredient": "minecraft:brown_mushroom",
   "result": {
     "id": "cook-up:roasted_red_mushroom"
   }

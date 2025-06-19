@@ -1,6 +1,5 @@
 package net.gamemode3.cookup.mixin;
 
-import net.gamemode3.cookup.item.ModItems;
 import net.gamemode3.cookup.potion.ModPotions;
 import net.minecraft.item.Items;
 import net.minecraft.potion.Potions;
@@ -21,12 +20,12 @@ public class BrewingRecipeRegistryMixin {
         // Register the base potion + ingredient → result logic
         builder.registerPotionRecipe(
                 Potions.AWKWARD, // base potion
-                ModItems.RAW_CRIMSON_FUNGUS, // ingredient item
+                Items.CRIMSON_FUNGUS, // ingredient item
                 ModPotions.CRIMSON_POTION
         );
         builder.registerPotionRecipe(
                 Potions.AWKWARD, // base potion
-                ModItems.RAW_WARPED_FUNGUS, // ingredient item
+                Items.WARPED_FUNGUS, // ingredient item
                 ModPotions.WARPED_POTION
         );
     }
